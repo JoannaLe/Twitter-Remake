@@ -1,0 +1,45 @@
+.header {
+	display: inline;
+}
+
+#logo {
+	display: inline;
+}
+
+#home-icon:hover {
+	text-decoration: none;
+}
+
+.log {
+	position: absolute;
+	right: 5px;
+	top: 20px;
+}
+
+.logged_in {
+	position: absolute;
+	right: 30px;
+	top: 20px;
+	min-width: 40px;
+}
+
+#signup {
+	position: absolute;
+	right: 60px;
+	top: 20px;
+}
+
+.signup {
+	display: inline-block;
+}
+
+.account-form {
+    text-align: center;
+    padding-top: 150px;
+  	min-height: 50%;
+}
+
+body {
+	margin: 10px;
+	font-family: "Georigia", Times, serif;
+}
